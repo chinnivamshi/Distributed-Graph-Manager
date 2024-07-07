@@ -40,8 +40,8 @@ This project simulates a distributed graph database system involving a load bala
 - Menu options:
   1. Add a new graph
   2. Modify an existing graph
-  3. Perform DFS
-  4. Perform BFS
+  3. Perform Depth First Search(DFS)
+  4. Perform Breadth First Search(BFS)
 
 ### Load Balancer
 - Receives client requests and forwards them to the appropriate server.
